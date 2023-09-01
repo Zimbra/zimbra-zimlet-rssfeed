@@ -1,6 +1,6 @@
 # Zimbra RSS ATOM Zimlet
 
-A Simple Zimlet that ca nbe used to subscribe to RSS/ATOM feeds from within Zimbra Modern UI.
+A Simple Zimlet that can be used to subscribe to RSS/ATOM feeds from within Zimbra Modern UI.
 
 ## Screenshots
 
