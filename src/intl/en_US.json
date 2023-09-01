@@ -1,0 +1,14 @@
+{
+  "zimlet": {
+    "label": "Zimbra RSS/ATOM Zimlet",
+    "description": "Display RSS/ATOM feeds in a mail folder"
+  },
+  "zimbra-zimlet-rssfeed": {
+    "title": "Subscribe to RSS/ATOM feed",
+    "modalText": "Zimbra can display RSS/ATOM feeds in a mail folder. To get started provide a name for the RSS/ATOM feed and the URL to the feed.",
+    "name": "Name",
+    "url": "URL",
+    "reload": "Feed added, reload window to update folder list",
+    "error": "Could not load RSS/ATOM feed, check URL"
+  }
+}
