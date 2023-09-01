@@ -1,6 +1,6 @@
 # Zimbra RSS ATOM Zimlet
 
-A Simple Zimlet that canbe used to subscribe to RSS/ATOM feeds from within Zimbra Modern UI.
+A Simple Zimlet that ca nbe used to subscribe to RSS/ATOM feeds from within Zimbra Modern UI.
 
 ## Screenshots
 
@@ -15,7 +15,7 @@ The RSS/ATOM feed shows up as a folder in Zimbra:
 
 ## Installation
 
-The Zimbra ChatGPT Zimlet is released as open-source Zimlet without official support. You can install it by running the following commands as root:
+You can install the Zimlet by running the following commands as root:
 
 ```
 wget https://github.com/Zimbra/zimbra-zimlet-rssfeed/releases/download/0.0.1/zimbra-zimlet-rssfeed.zip -O /tmp/zimbra-zimlet-rssfeed.zip
